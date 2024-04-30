@@ -1,5 +1,5 @@
-<h1 align="left">>whoami giacomo</h1>
-<h3 align="left">a cyber student, passionate about information security, hacking and learning</h3>
+<h1 align="left">>whoami</h1>
+<h3 align="left">giacomo, a cyber student, passionate about information security, hacking and learning</h3>
 <br>
 
 
@@ -8,6 +8,7 @@
 - 💡 Learning about **Go, Docker and Zero Trust principles**
 
 - 🔮 Future plans for this summer:
+  	- [ ] start a personal blog
 	- [ ] set up a homelab with Proxmox
 	- [ ] set up a hacking lab for malware analysis and network intrusion detection
 	- [ ] build something cool in Golang related to cyber
