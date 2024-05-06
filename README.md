@@ -1,5 +1,5 @@
 <h1 align="left">>whoami</h1>
-<h3 align="left">giacomo, a cyber student, passionate about information security, hacking and learning</h3>
+<h3 align="left">giacomo, a cyber student, passionate about information security and exploring unconventional approaches to IT systems</h3>
 <br>
 
 
@@ -9,11 +9,10 @@
 
 - 🔮 Future plans for this summer:
   	- [ ] start a personal blog
-	- [ ] set up a homelab with Proxmox
+	- [x] set up a homelab with Proxmox
 	- [ ] set up a hacking lab for malware analysis and network intrusion detection
 	- [ ] build something cool in Golang related to cyber
 	- [ ] hunt for bugs in the wild
-	- [ ] organize repos, dotfiles and notes
 
 - 📫 **giacomo.flisi@protonmail.com**
 
