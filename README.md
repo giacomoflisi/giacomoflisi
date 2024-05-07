@@ -11,7 +11,7 @@
   	- [ ] start a personal blog
 	- [x] set up a homelab with Proxmox
 	- [ ] set up a hacking lab for malware analysis and network intrusion detection
-	- [ ] build something cool in Golang related to cyber
+	- [ ] Go project with goreleaser and githubactions
 	- [ ] hunt for bugs in the wild
 
 - 📫 **giacomo.flisi@protonmail.com**
