@@ -11,7 +11,7 @@
   	- [ ] start a personal blog
 	- [x] set up a homelab with Proxmox
 	- [ ] set up a hacking lab for malware analysis and network intrusion detection
- 	- [x] fail deploying IDS, EDR, and SOAR solutions
+ 	- [x] fail to deploy an IDS, EDR, and SOAR solution
 	- [ ] Go project with goreleaser and githubactions
 	- [ ] hunt for duplicate bugs in the wild
 
