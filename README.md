@@ -1,5 +1,5 @@
 <h1 align="left">>whoami</h1>
-<h3 align="left">giacomo, a cyber student, passionate about information security and exploring unconventional approaches to IT systems</h3>
+<h3 align="left">giacomo, a cyber student living in the shell prompt, passionate about information security and exploring unconventional approaches to IT systems</h3>
 <br>
 
 
@@ -11,8 +11,9 @@
   	- [ ] start a personal blog
 	- [x] set up a homelab with Proxmox
 	- [ ] set up a hacking lab for malware analysis and network intrusion detection
+ 	- [x] fail deploying IDS, EDR, and SOAR solutions
 	- [ ] Go project with goreleaser and githubactions
-	- [ ] hunt for bugs in the wild
+	- [ ] hunt for duplicate bugs in the wild
 
 - 📫 **giacomo.flisi@protonmail.com**
 
