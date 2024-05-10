@@ -1,5 +1,5 @@
 <h1 align="left">>whoami</h1>
-<h3 align="left">giacomo, a cyber student living in the shell prompt, passionate about information security and exploring unconventional approaches to IT systems</h3>
+<h3 align="left">a cyber student living in the shell prompt, passionate about information security and exploring unconventional approaches to IT systems</h3>
 <br>
 
 
