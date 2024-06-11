@@ -1,5 +1,5 @@
 <h1 align="left">>whoami</h1>
-<h3 align="left">a cyber student living in the shell prompt, passionate about information security and exploring unconventional approaches to IT systems</h3>
+<h3 align="left">a cyber student living in the terminal, passionate about information security and exploring unconventional approaches to IT systems</h3>
 <br>
 
 
@@ -9,6 +9,7 @@
 
 - 🔮 Future plans for this summer:
   	- [ ] start a personal blog
+  	- [x] create a house hunting bot, written in Go
 	- [x] set up a homelab with Proxmox
 	- [ ] set up a hacking lab for malware analysis and network intrusion detection
  	- [x] fail to deploy an IDS, EDR, and SOAR solution
