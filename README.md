@@ -10,7 +10,8 @@
 - 🔮 Future plans for this summer:
   	- [ ] start a personal blog
   	- [x] create a house hunting bot, written in Go
-	- [x] set up a homelab with Proxmox
+	- [x] homelab with Proxmox
+	- [ ] create a custom router with openwrt		
 	- [ ] set up a hacking lab for malware analysis and network intrusion detection
  	- [x] fail to deploy an IDS, EDR, and SOAR solution
 	- [ ] Go project with goreleaser and githubactions
