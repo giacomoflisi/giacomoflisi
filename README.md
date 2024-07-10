@@ -2,20 +2,20 @@
 <h3 align="left">a cyber student living in the terminal, passionate about information security and exploring unconventional approaches to IT systems</h3>
 
 
-- 🎓 Currently working on **my Computer Engineering thesis project**
+- 🎓 Currently working on **optimizing my notetaking system with Neovim + Obsidian**
 
-- 💡 Learning about **Go, Docker and Zero Trust principles**
+- 💡 Learning about **Go, Docker, Automation and Lua**
 
-- 🔮 Future plans for this summer:
+- 🔮 Future plans:
   	- [ ] start a personal blog
+  	- [x] CS degree 🎓
   	- [x] create a house hunting bot, written in Go
 	- [x] homelab with Proxmox
-	- [ ] build a custom router with openwrt		
-	- [ ] set up a hacking lab for malware analysis and network intrusion detection
- 	- [x] fail to deploy an IDS, EDR, and SOAR solution
+	- [ ] custom router with openwrt
+	- [ ] set up a hacking lab
+ 	- [ ] SOAR & EDR project
 	- [ ] Go project with goreleaser and githubactions
 	- [ ] hunt for duplicate bugs in the wild
- 	- [ ] fix dotfiles repo 
 
 - 📫 **giacomo.flisi@protonmail.com**
 
