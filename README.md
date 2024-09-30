@@ -2,16 +2,16 @@
 <h3 align="left">a cyber student living in the terminal, passionate about information security and exploring unconventional approaches to IT systems</h3>
 
 
-- 🎓 Currently working on **optimizing my notetaking system with Neovim + Obsidian**
+- 🎓 Currently studying for my **MCs degree in Information Security Technology @TU/e**
 
-- 💡 Learning about **Go, Docker, Automation and Lua**
+- 💡 Learning about **Elliptic Curve Crypto, Cybercrime, Privacy & Data Protection**
 
 - 🔮 Future plans:
   	- [ ] start a personal blog
   	- [x] CS degree 🎓
   	- [x] create a house hunting bot, written in Go
 	- [x] homelab with Proxmox
-	- [ ] custom router with openwrt
+	- [ ] fix notetaking system	
 	- [ ] set up a hacking lab
  	- [ ] SOAR & EDR project
 	- [ ] Go project with goreleaser and githubactions
