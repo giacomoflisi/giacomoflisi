@@ -1,21 +1,21 @@
 <h1 align="left">>whoami</h1>
-<h3 align="left">a cyber student living in the terminal, passionate about information security and exploring unconventional approaches to IT systems</h3>
+<h3 align="left">a cyber security student, i like typing in the terminal, taking notes, passionate about information security and exploring creative approaches to solving problems</h3>
 
 
-- 🎓 Currently studying for my **MCs degree in Information Security Technology @TU/e**
+- 🎓 Currently working towards a **MCs degree in Information Security Technology @TU/e**
 
-- 💡 Learning about **Elliptic Curve Crypto, Cybercrime, Privacy & Data Protection**
+- 💡 Interested in **Cybercrime, Cyber Threat Intelligence, Security, Privacy**
 
 - 🔮 Future plans:
   	- [ ] start a personal blog
-  	- [x] CS degree 🎓
-  	- [x] create a house hunting bot, written in Go
+   	- [ ] create a personal photo gallery website
+  	- [x] create a house hunting bot
 	- [x] homelab with Proxmox
-	- [ ] fix notetaking system	
+ 	- [x] Saltstack infrastructure
+  	- [x] Security Onion with elastic ingestion pipeline
+	- [ ] fix neovim notetaking system	
 	- [ ] set up a hacking lab
  	- [ ] SOAR & EDR project
-	- [ ] Go project with goreleaser and githubactions
-	- [ ] hunt for duplicate bugs in the wild
 
 - 📫 **giacomo.flisi@protonmail.com**
 
